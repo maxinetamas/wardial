@@ -1,4 +1,4 @@
-# Wardial
+# Wardial!
 
 ![](https://github.com/maxinetamas/wardial/workflows/task1/badge.svg)
 ![](https://github.com/maxinetamas/wardial/workflows/task2/badge.svg)
